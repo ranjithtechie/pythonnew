@@ -28,7 +28,7 @@ while player == play:
         else: 
             print("You win!", player, "cuts", computer) 
     else: 
-        print("That's not a valid play. Check the spelling!") 
+        print("That's not a  play. Check the spelling!") 
    
     
     anotherchance = int(input ("play again :'1' for yes and '0' for no "))
